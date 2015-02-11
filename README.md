@@ -3,3 +3,4 @@
 Collection of interesting tech talks
 
 - [Seeing Spaces](https://vimeo.com/97903574) by Bret Victor: What if we designed a new kind of "maker space" -- a space that isn't just for putting pieces together, but also for seeing and understanding a project's behavior in powerful ways?
+- [Enemy of the State](https://www.youtube.com/watch?v=7AqXBuJOJkY) by Justin Spahr-Summers: This talk explains what state is, details exactly why it's so harmful, and offers ways to minimize and avoid state, making the apps we develop simpler and more reliable.
