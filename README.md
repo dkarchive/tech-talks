@@ -5,6 +5,7 @@ Collection of interesting tech talks
 ## Misc
 - [Seeing Spaces](https://vimeo.com/97903574) by Bret Victor: What if we designed a new kind of "maker space" -- a space that isn't just for putting pieces together, but also for seeing and understanding a project's behavior in powerful ways?
 - [Ruthlessly Simple Dependency Management with Carthage](http://realm.io/news/swift-dependency-management-with-carthage/) by Justin Spahr-Summers: This talk explains what Carthage is and how to use it, then dives into the philosophy of ruthless simplicity that inspired the project. 
+- [Library-Oriented Programming](https://www.youtube.com/watch?v=lqNUTW0F4bw) by Justin Spahr-Summers: This talk will explain exactly what “library-oriented” means, how libraries and frameworks reduce coupling, and when the right time is to build a new library. 
 
 ## Functional Programming
 - [Enemy of the State](https://www.youtube.com/watch?v=7AqXBuJOJkY) by Justin Spahr-Summers: This talk explains what state is, details exactly why it's so harmful, and offers ways to minimize and avoid state, making the apps we develop simpler and more reliable.
